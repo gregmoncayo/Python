@@ -1,0 +1,5 @@
+.idea
+__pycache__
+Thumbs.db
+*.orig
+.DS_Store
