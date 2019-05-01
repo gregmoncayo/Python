@@ -1,0 +1,15 @@
+This course was one of my favorite courses offered at Florida State University.
+
+With that being said, the only thing I would recommend for improvement would be:
+
+- More hands on experience with Amazon AWS Ec2
+
+- More machine learning
+
+- More hands on experience with Angular and NodeJS
+
+- More experience with Klustering and more help with it as well
+
+- Project could be group project
+
+Other than that, everything else is fine and should stay the same
